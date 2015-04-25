@@ -1,0 +1,19 @@
+BH,Beverly Hills
+B,Burbank
+CM,Coastal
+C,Compton
+EM,Eastern
+F,Fullerton
+G,Glendale
+CB,Inland Empire
+LV,Las Virgenes
+LB,Long Beach
+LA,Los Angeles
+OC,Orange
+P,Pasadena
+SD,San Diego
+SF,San Fernando
+SMR,San Marino
+SA,Santa Ana
+SMN,Santa Monica
+T,Torrance
