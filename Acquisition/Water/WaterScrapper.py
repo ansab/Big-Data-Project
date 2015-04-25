@@ -13,8 +13,8 @@ class WaterScrapper:
 	def __init__(self, date, countyName):
 		self._date = date
 		self._countyName = countyName
-		self._timeDelay = 6
-		self._initialTimeDelay = 20
+		self._timeDelay = 2
+		self._initialTimeDelay = 20 * 1000
 		self._finalTimeDelay = 20
 		self._url = "https://wins.mwdsc.org/Unsecured/login.aspx?Wamiuser=Wamiuser"
 		self._reportLinkID = 'ctl00_ContentPlaceHolder1_gridReports_ctl05_ReportNameLinkButton'
@@ -30,7 +30,7 @@ class WaterScrapper:
 
 	def startEngine(self):
 		self._driver = webdriver.Firefox()
-		self._driver.implicitly_wait(self._initialTimeDelay) # seconds
+		self._driver.implicitly_wait(self._initialTimeDelay) 
 		self._driver.get(self._url)
 		# Wait for loading form
 		wait = WebDriverWait(self._driver, self._initialTimeDelay)
@@ -42,7 +42,6 @@ class WaterScrapper:
 		countyTag = wait.until(EC.element_to_be_clickable((By.ID,self._countySelectID)))
 		countySelectTag = Select(countyTag)
 		countySelectTag.select_by_value(self._countyName)
-		time.sleep(self._timeDelay)
 
 		meterTag = wait.until(EC.element_to_be_clickable((By.ID,self._meterSelectID)))
 		meterSelectTag = Select(meterTag)
@@ -59,11 +58,14 @@ class WaterScrapper:
 		
 		previewReportButton = self._driver.find_element_by_id(self._previewReportButtonID)
 		previewReportButton.send_keys(Keys.RETURN)
-		time.sleep(self._finalTimeDelay)
+
+		windows = self._driver.window_handles
+
+		while(len(windows) < 2):
+			windows = self._driver.window_handles
 
 		currentWindow = self._driver.current_window_handle
 		popupWindow = None
-		windows = self._driver.window_handles
 		for window in windows:
 			if currentWindow != window:
 				popupWindow = window
@@ -122,8 +124,3 @@ def main():
 	reader.close()
 
 if __name__ == "__main__": main()
-
-
-
-
-
