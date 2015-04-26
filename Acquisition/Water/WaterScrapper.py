@@ -15,8 +15,8 @@ class WaterScrapper:
         self._date = date
         self._countyName = countyName
         self._timeDelay = 1
-        self._initialTimeDelay = 20
-        self._finalTimeDelay = 20
+        self._initialTimeDelay = 10
+        self._finalTimeDelay = 10
         self._url = "https://wins.mwdsc.org/Unsecured/login.aspx?Wamiuser=Wamiuser"
         self._reportLinkID = 'ctl00_ContentPlaceHolder1_gridReports_ctl05_ReportNameLinkButton'
         self._countySelectID = 'ctl00_ContentPlaceHolder1_ddlMember'
@@ -44,14 +44,22 @@ class WaterScrapper:
         reportLink.send_keys(Keys.RETURN)
         time.sleep(self._timeDelay)
 
-        countyTag = self._wait.until(EC.presence_of_element_located((By.ID,self._countySelectID)))
-        countySelectTag = Select(countyTag)
-        countySelectTag.select_by_value(self._countyName)
+        try:
+            countyTag = self._wait.until(EC.presence_of_element_located((By.ID,self._countySelectID)))
+            countySelectTag = Select(countyTag)
+            countySelectTag.select_by_value(self._countyName)
+        except Exception as e:
+            return self.handleException("County Name", e)
 
         time.sleep(self._timeDelay)
-        meterTag = self._wait.until(EC.presence_of_element_located((By.ID,self._meterSelectID)))
-        meterSelectTag = Select(meterTag)
-        meterSelectTag.select_by_value('All')
+
+        try:
+            meterTag = self._wait.until(EC.presence_of_element_located((By.ID,self._meterSelectID)))
+            meterSelectTag = Select(meterTag)
+            meterSelectTag.select_by_value('All')
+        except Exception as e:
+            return self.handleException("Meter", e)
+
         time.sleep(self._timeDelay)
 
         if self._iterator < 1:
@@ -102,13 +110,20 @@ class WaterScrapper:
                 actualSpanIndex = iterator - 1
             iterator = iterator + 1
         if actualSpanIndex == None:
-            print "Error: "
-            print soup.prettify()
+            return self.handleException("Could not find frame", None)
+
         newSoup = BeautifulSoup(str(containerDivs[actualSpanIndex]))
         span = newSoup.find('span', {"class": self._meterDataClassPattern})
         self._iterator = self._iterator + 1
-        return str(span.text.encode('utf-8'))
+        return {'status': 'true', 'value': str(span.text.encode('utf-8'))}
 
+    def handleException(self, message, exception):
+        self._driver.get(self._url)
+        self._iterator = 0;
+        print "Exception caught while: " + message
+        #print exception
+        print "======= Let's try again ======="
+        return {'status': 'false'}
 
 def main():
     fileName = 'meterData.txt'
@@ -129,7 +144,13 @@ def main():
             scrapper._countyName = key
 
             data = scrapper.startEngine()
-            formattedLine = dateString + ", " + value + ", "  + data + "\n"
+            while(data['status'] == 'false'):
+                time.sleep(1*5)
+                data = scrapper.startEngine()
+
+            if data['value'] == 'Grand Total':
+                data = 'NA'
+            formattedLine = dateString + ", " + value + ", "  + data['value'] + "\n"
             print formattedLine
             appender.write(formattedLine)
 
@@ -137,8 +158,3 @@ def main():
     reader.close()
 
 if __name__ == "__main__": main()
-
-
-
-
-
