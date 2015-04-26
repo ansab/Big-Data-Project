@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.remote.webelement import  WebElement
 import time
 from bs4 import BeautifulSoup
 import re
@@ -14,7 +15,7 @@ class WaterScrapper:
         self._date = date
         self._countyName = countyName
         self._timeDelay = 1
-        self._initialTimeDelay = 20 * 3
+        self._initialTimeDelay = 20
         self._finalTimeDelay = 20
         self._url = "https://wins.mwdsc.org/Unsecured/login.aspx?Wamiuser=Wamiuser"
         self._reportLinkID = 'ctl00_ContentPlaceHolder1_gridReports_ctl05_ReportNameLinkButton'
@@ -47,9 +48,8 @@ class WaterScrapper:
         countySelectTag = Select(countyTag)
         countySelectTag.select_by_value(self._countyName)
 
+        time.sleep(self._timeDelay)
         meterTag = self._wait.until(EC.presence_of_element_located((By.ID,self._meterSelectID)))
-        print "Meter Tag: " + str(type(meterTag))
-        print "Meter Tag Name" + meterTag
         meterSelectTag = Select(meterTag)
         meterSelectTag.select_by_value('All')
         time.sleep(self._timeDelay)
@@ -84,6 +84,7 @@ class WaterScrapper:
         self._driver.switch_to.frame(externalFrame)
         internalFrame = self._driver.find_element_by_name(self._internalFrameID)
         self._driver.switch_to.frame(internalFrame)
+        cridReportPage = self._wait.until(EC.presence_of_element_located((By.ID,'cridreportpage')))
 
         soup = BeautifulSoup(self._driver.page_source)
         self._driver.close()
@@ -100,7 +101,9 @@ class WaterScrapper:
             if (title == "Visit the Support Site for samples, web forums, tutorials, technical briefs and more!"):
                 actualSpanIndex = iterator - 1
             iterator = iterator + 1
-
+        if actualSpanIndex == None:
+            print "Error: "
+            print soup.prettify()
         newSoup = BeautifulSoup(str(containerDivs[actualSpanIndex]))
         span = newSoup.find('span', {"class": self._meterDataClassPattern})
         self._iterator = self._iterator + 1
