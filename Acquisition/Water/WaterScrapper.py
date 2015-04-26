@@ -147,11 +147,12 @@ def main():
             while(data['status'] == 'false'):
                 time.sleep(1*5)
                 data = scrapper.startEngine()
-
-            if data['value'] == 'Grand Total':
-                data = 'NA'
+            
+            grandTotal = re.findall('grand', data['value'], re.IGNORECASE)
+            if grandTotal:
+                data['value'] = 'NA'
             formattedLine = dateString + ", " + value + ", "  + data['value'] + "\n"
-            print formattedLine
+            print dateString + ", " + value + ", "  + data['value'] + ' AF'
             appender.write(formattedLine)
 
     appender.close()
