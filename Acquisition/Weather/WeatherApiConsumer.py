@@ -38,7 +38,7 @@ def main():
 			if data == 'T':
 				data = 'NA'
 			formattedLine = dateString + ", " + value + ", "  + data + "\n"
-			print dateString + ", " + value + ", "  + data + " in"
+			print dateString + ", " + value + ", "  + data + " in" 
 			appender.write(formattedLine)
 
 	appender.close()
