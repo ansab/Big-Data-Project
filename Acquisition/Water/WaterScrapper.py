@@ -120,9 +120,9 @@ class WaterScrapper:
     def handleException(self, message, exception):
         self._driver.get(self._url)
         self._iterator = 0;
-        print "Exception caught while: " + message
+        #print "Exception caught while: " + message
         #print exception
-        print "======= Let's try again ======="
+        #print "======= Let's try again ======="
         return {'status': 'false'}
 
 def main():
@@ -147,7 +147,7 @@ def main():
             while(data['status'] == 'false'):
                 time.sleep(1*5)
                 data = scrapper.startEngine()
-            
+
             grandTotal = re.findall('grand', data['value'], re.IGNORECASE)
             if grandTotal:
                 data['value'] = 'NA'
