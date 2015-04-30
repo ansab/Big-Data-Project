@@ -23,7 +23,7 @@ class WeatherApiConsumer:
 
 def main():
     client = MongoClient()
-    db = client.waterdb
+    db = client.raindb
 
     fileName = 'weatherData.txt'
     yesterday = date.today() - timedelta(days=1)
@@ -48,7 +48,7 @@ def main():
             formattedLine = dateString + ", " + value + ", " + data + "\n"
 
             print dateString + ", " + value + ", " + data + " in"
-            db.waterdb.insert({"Date":dateString,"City":value,"rain":data})
+            db.raindb.insert({"Date":dateString,"City":value,"rain":data})
 
             appender.write(formattedLine)
 
