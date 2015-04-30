@@ -26,8 +26,8 @@ class WaterScrapper:
         self._previewReportButtonID = 'ctl00_ContentPlaceHolder1_PreviewRptLinkButton'
         self._externalFrameID = 'documentFrame000hb'
         self._internalFrameID = 'ceframe'
-        self._containerDivClassPattern = re.compile("adi4g")
-        self._meterDataClassPattern = re.compile("fci4g")
+        self._containerDivClassPattern = re.compile("adi4")
+        self._meterDataClassPattern = re.compile("fci4")
 
         self._driver = webdriver.Firefox()
         self._driver.implicitly_wait(self._initialTimeDelay) # seconds
@@ -70,6 +70,9 @@ class WaterScrapper:
             endDateInputField = self._driver.find_element_by_id(self._endDateID)
             endDateInputField.send_keys(self._date)
             time.sleep(self._timeDelay)
+
+        # if (len(startDateInputField.get_attribute("value")) < 0 or len(endDateInputField.get_attribute("value")) < 0):
+        #     return self.handleException("Missing dates", None)
 
         previewReportButton = self._driver.find_element_by_id(self._previewReportButtonID)
         previewReportButton.send_keys(Keys.RETURN)
@@ -120,9 +123,10 @@ class WaterScrapper:
     def handleException(self, message, exception):
         self._driver.get(self._url)
         self._iterator = 0;
-        #print "Exception caught while: " + message
-        #print exception
-        #print "======= Let's try again ======="
+        print "======= EXCEPTION ======="
+        print "Exception caught while: " + message
+        print exception
+        print "======= Let's try again ======="
         return {'status': 'false'}
 
 def main():
