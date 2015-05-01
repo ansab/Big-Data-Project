@@ -9,6 +9,7 @@ import time
 from bs4 import BeautifulSoup
 import re
 from datetime import date, timedelta
+from pymongo import MongoClient
 
 class WaterScrapper:
     def __init__(self, date, countyName):
@@ -130,6 +131,8 @@ class WaterScrapper:
         return {'status': 'false'}
 
 def main():
+    client = MongoClient()
+    db = client.waterdb
     fileName = 'meterData.txt'
     yesterday = date.today() - timedelta(days=1)
     dateString = str(yesterday.month) +"/"+ str(yesterday.day) + "/" + str(yesterday.year)
@@ -157,6 +160,8 @@ def main():
                 data['value'] = 'NA'
             formattedLine = dateString + ", " + value + ", "  + data['value'] + "\n"
             print dateString + ", " + value + ", "  + data['value'] + ' AF'
+            #insert data in mongo
+            db.waterdb.insert({"Date":dateString,"City":value,"water":data['value']})
             appender.write(formattedLine)
 
     appender.close()
