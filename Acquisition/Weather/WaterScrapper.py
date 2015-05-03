@@ -52,11 +52,11 @@ class WaterScrapper:
 		startDateInputField = self._driver.find_element_by_id(self._startDateID)
 		startDateInputField.send_keys(self._date)
 		time.sleep(self._timeDelay)
-		
+
 		endDateInputField = self._driver.find_element_by_id(self._endDateID)
 		endDateInputField.send_keys(self._date)
 		time.sleep(self._timeDelay)
-		
+
 		previewReportButton = self._driver.find_element_by_id(self._previewReportButtonID)
 		previewReportButton.send_keys(Keys.RETURN)
 		time.sleep(self._finalTimeDelay)
@@ -68,7 +68,7 @@ class WaterScrapper:
 			if currentWindow != window:
 				popupWindow = window
 		self._driver.switch_to.window(popupWindow)
-		
+
 		externalFrame = self._driver.find_element_by_name(self._externalFrameID)
 		self._driver.switch_to.frame(externalFrame)
 		internalFrame = self._driver.find_element_by_name(self._internalFrameID)
@@ -78,7 +78,7 @@ class WaterScrapper:
 		time.sleep(self._timeDelay)
 		self._driver.quit()
 		containerDivs = soup.findAll('div', {"class": self._containerDivClassPattern})
-		
+
 		actualSpanIndex = None
 		iterator = 0
 		for div in containerDivs:
@@ -89,19 +89,19 @@ class WaterScrapper:
 			if (title == "Visit the Support Site for samples, web forums, tutorials, technical briefs and more!"):
 				actualSpanIndex = iterator - 1
 			iterator = iterator + 1
-		
+
 		newSoup = BeautifulSoup(str(containerDivs[actualSpanIndex]))
 		span = newSoup.find('span', {"class": self._meterDataClassPattern})
 
 		return str(span.text.encode('utf-8'))
-		
+
 
 def main():
 	fileName = 'meterData.txt'
 	yesterday = date.today() - timedelta(days=1)
 	dateString = str(yesterday.month) +"/"+ str(yesterday.day) + "/" + str(yesterday.year)
 	scrapper = WaterScrapper(dateString, 'B')
-	
+
 	appender = open(fileName, 'a')
 	reader = open('CountyNames.txt', 'r')
 
@@ -115,7 +115,7 @@ def main():
 			scrapper._countyName = key
 			data = scrapper.startEngine()
 			formattedLine = dateString + ", " + value + ", "  + data + "\n"
-			print formattedLine 
+			print formattedLine
 			appender.write(formattedLine)
 
 	appender.close()
