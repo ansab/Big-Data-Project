@@ -136,7 +136,7 @@ def engine(selectedDate):
 	db = client['cs-594-project']
 	meterCollection = db['meterData']
 	fileName = 'meterData.txt'
-	dateString = str(date.month) +"/"+ str(date.day) + "/" + str(date.year)
+	dateString = str(selectedDate.month) +"/"+ str(selectedDate.day) + "/" + str(selectedDate.year)
 	scrapper = WaterScrapper(dateString, 'B')
 	appender = open(fileName, 'a')
 	reader = open('CountyNames.txt', 'r')
