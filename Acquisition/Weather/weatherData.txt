@@ -37,3 +37,1433 @@
 20150428, Santa Ana, 0.00
 20150428, Santa Monica, 0.00
 20150428, Torrance, 0.00
+20150509, Anaheim, 0.00
+20150509, Beverly Hills, 0.00
+20150509, Burbank, 0.00
+20150509, Glendale, 0.00
+20150509, Long Beach, 0.00
+20150509, Los Angeles, 0.00
+20150509, Pasadena, 0.00
+20150509, San Diego, NA
+20150509, San Fernando, 0.00
+20150509, San Marino, 0.00
+20150509, Santa Ana, 0.00
+20150509, Santa Monica, 0.00
+20150509, Torrance, 0.00
+20150509, Anaheim, 0.00
+20150509, Beverly Hills, 0.00
+20150509, Burbank, 0.00
+20150509, Glendale, 0.00
+20150509, Long Beach, 0.00
+20150509, Los Angeles, 0.00
+20150509, Pasadena, 0.00
+20150509, San Diego, NA
+20150509, San Fernando, 0.00
+20150509, San Marino, 0.00
+20150509, Santa Ana, 0.00
+20150509, Santa Monica, 0.00
+20150509, Torrance, 0.00
+20150509, Anaheim, 0.00
+20150509, Beverly Hills, 0.00
+20150509, Burbank, 0.00
+20150509, Glendale, 0.00
+20150509, Long Beach, 0.00
+20150509, Los Angeles, 0.00
+20150509, Pasadena, 0.00
+20150509, San Diego, NA
+20150509, San Fernando, 0.00
+20150509, San Marino, 0.00
+20150509, Santa Ana, 0.00
+20150509, Santa Monica, 0.00
+20150509, Torrance, 0.00
+20150516, Anaheim, 0.00
+20150516, Beverly Hills, 0.00
+20150516, Burbank, 0.00
+20150516, Glendale, 0.00
+20150516, Long Beach, 0.00
+20150516, Los Angeles, 0.00
+20150516, Pasadena, 0.00
+20150516, San Diego, NA
+20150516, San Fernando, 0.00
+20150516, San Marino, 0.00
+20150516, Santa Ana, 0.00
+20150516, Santa Monica, 0.00
+20150516, Torrance, 0.00
+20150516, Anaheim, 0.00
+20150516, Beverly Hills, 0.00
+20150516, Burbank, 0.00
+20150516, Glendale, 0.00
+20150516, Long Beach, 0.00
+20150516, Los Angeles, 0.00
+20150516, Pasadena, 0.00
+20150516, San Diego, NA
+20150516, San Fernando, 0.00
+20150516, San Marino, 0.00
+20150516, Santa Ana, 0.00
+20150516, Santa Monica, 0.00
+20150516, Torrance, 0.00
+20150516, Anaheim, 0.00
+20150516, Beverly Hills, 0.00
+20150516, Burbank, 0.00
+20150516, Glendale, 0.00
+20150516, Long Beach, 0.00
+20150516, Los Angeles, 0.00
+20150516, Pasadena, 0.00
+20150516, San Diego, NA
+20150516, San Fernando, 0.00
+20150516, San Marino, 0.00
+20150516, Santa Ana, 0.00
+20150516, Santa Monica, 0.00
+20150516, Torrance, 0.00
+20150516, Anaheim, 0.00
+20150516, Beverly Hills, 0.00
+20150516, Burbank, 0.00
+20150516, Glendale, 0.00
+20150516, Long Beach, 0.00
+20150516, Los Angeles, 0.00
+20150516, Pasadena, 0.00
+20150516, San Diego, NA
+20150516, San Fernando, 0.00
+20150516, San Marino, 0.00
+20150516, Santa Ana, 0.00
+20150516, Santa Monica, 0.00
+20150516, Torrance, 0.00
+20150519, Anaheim, 0.00
+20150519, Beverly Hills, 0.00
+20150519, Burbank, 0.00
+20150519, Glendale, 0.00
+20150519, Long Beach, 0.00
+20150519, Los Angeles, 0.00
+20150519, Pasadena, 0.00
+20150519, San Diego, 0.00
+20150519, San Fernando, 0.00
+20150519, San Marino, 0.00
+20150519, Santa Ana, 0.00
+20150519, Santa Monica, 0.00
+20150519, Torrance, 0.00
+20150520, Anaheim, 0.00
+20150520, Beverly Hills, 0.00
+20150520, Burbank, 0.00
+20150520, Glendale, 0.00
+20150520, Long Beach, 0.00
+20150520, Los Angeles, 0.00
+20150520, Pasadena, 0.00
+20150520, San Diego, 0.00
+20150520, San Fernando, 0.00
+20150520, San Marino, 0.00
+20150520, Santa Ana, 0.00
+20150520, Santa Monica, 0.00
+20150520, Torrance, 0.00
+20150520, Anaheim, 0.00
+20150520, Beverly Hills, 0.00
+20150520, Burbank, 0.00
+20150520, Glendale, 0.00
+20150520, Long Beach, 0.00
+20150520, Los Angeles, 0.00
+20150520, Pasadena, 0.00
+20150520, San Diego, 0.00
+20150520, San Fernando, 0.00
+20150520, San Marino, 0.00
+20150520, Santa Ana, 0.00
+20150520, Santa Monica, 0.00
+20150520, Torrance, 0.00
+20150520, Anaheim, 0.00
+20150520, Beverly Hills, 0.00
+20150520, Burbank, 0.00
+20150520, Glendale, 0.00
+20150520, Long Beach, 0.00
+20150520, Los Angeles, 0.00
+20150520, Pasadena, 0.00
+20150520, San Diego, 0.00
+20150520, San Fernando, 0.00
+20150520, San Marino, 0.00
+20150520, Santa Ana, 0.00
+20150520, Santa Monica, 0.00
+20150520, Torrance, 0.00
+20150520, Anaheim, 0.00
+20150520, Beverly Hills, 0.00
+20150520, Burbank, 0.00
+20150520, Glendale, 0.00
+20150520, Long Beach, 0.00
+20150520, Los Angeles, 0.00
+20150520, Pasadena, 0.00
+20150520, San Diego, 0.00
+20150520, San Fernando, 0.00
+20150520, San Marino, 0.00
+20150520, Santa Ana, 0.00
+20150520, Santa Monica, 0.00
+20150520, Torrance, 0.00
+20150519, Anaheim, 0.00
+20150519, Beverly Hills, 0.00
+20150519, Burbank, 0.00
+20150519, Glendale, 0.00
+20150519, Long Beach, 0.00
+20150519, Los Angeles, 0.00
+20150519, Pasadena, 0.00
+20150519, San Diego, 0.00
+20150519, San Fernando, 0.00
+20150519, San Marino, 0.00
+20150519, Santa Ana, 0.00
+20150519, Santa Monica, 0.00
+20150519, Torrance, 0.00
+20150518, Anaheim, 0.00
+20150518, Beverly Hills, 0.00
+20150518, Burbank, 0.00
+20150518, Glendale, 0.00
+20150518, Long Beach, 0.00
+20150518, Los Angeles, NA
+20150518, Pasadena, 0.00
+20150518, San Diego, 0.00
+20150518, San Fernando, 0.00
+20150518, San Marino, 0.00
+20150518, Santa Ana, 0.00
+20150518, Santa Monica, 0.00
+20150518, Torrance, 0.00
+20150517, Anaheim, 0.00
+20150517, Beverly Hills, 0.00
+20150517, Burbank, 0.00
+20150517, Glendale, 0.00
+20150517, Long Beach, 0.00
+20150517, Los Angeles, 0.00
+20150517, Pasadena, 0.00
+20150517, San Diego, 0.00
+20150517, San Fernando, 0.00
+20150517, San Marino, 0.00
+20150517, Santa Ana, 0.00
+20150517, Santa Monica, 0.00
+20150517, Torrance, 0.00
+20150516, Anaheim, 0.00
+20150516, Beverly Hills, 0.00
+20150516, Burbank, 0.00
+20150516, Glendale, 0.00
+20150516, Long Beach, 0.00
+20150516, Los Angeles, 0.00
+20150516, Pasadena, 0.00
+20150516, San Diego, NA
+20150516, San Fernando, 0.00
+20150516, San Marino, 0.00
+20150516, Santa Ana, 0.00
+20150516, Santa Monica, 0.00
+20150516, Torrance, 0.00
+20150515, Anaheim, 0.22
+20150515, Beverly Hills, 0.03
+20150515, Burbank, 0.01
+20150515, Glendale, 0.01
+20150515, Long Beach, 0.09
+20150515, Los Angeles, 0.03
+20150515, Pasadena, 0.01
+20150515, San Diego, 0.21
+20150515, San Fernando, 0.00
+20150515, San Marino, 0.00
+20150515, Santa Ana, 0.19
+20150515, Santa Monica, 0.03
+20150515, Torrance, 0.00
+20150514, Anaheim, 0.26
+20150514, Beverly Hills, 0.24
+20150514, Burbank, 0.20
+20150514, Glendale, 0.20
+20150514, Long Beach, 0.49
+20150514, Los Angeles, 0.69
+20150514, Pasadena, 0.20
+20150514, San Diego, 0.04
+20150514, San Fernando, 0.00
+20150514, San Marino, 0.00
+20150514, Santa Ana, 0.33
+20150514, Santa Monica, 0.24
+20150514, Torrance, 0.00
+20150513, Anaheim, 0.00
+20150513, Beverly Hills, 0.00
+20150513, Burbank, 0.00
+20150513, Glendale, 0.00
+20150513, Long Beach, 0.00
+20150513, Los Angeles, 0.00
+20150513, Pasadena, 0.00
+20150513, San Diego, 0.00
+20150513, San Fernando, 0.00
+20150513, San Marino, 0.00
+20150513, Santa Ana, 0.00
+20150513, Santa Monica, 0.00
+20150513, Torrance, 0.00
+20150512, Anaheim, 0.00
+20150512, Beverly Hills, 0.00
+20150512, Burbank, 0.00
+20150512, Glendale, 0.00
+20150512, Long Beach, 0.00
+20150512, Los Angeles, 0.00
+20150512, Pasadena, 0.00
+20150512, San Diego, 0.00
+20150512, San Fernando, 0.00
+20150512, San Marino, 0.00
+20150512, Santa Ana, 0.00
+20150512, Santa Monica, 0.00
+20150512, Torrance, 0.00
+20150511, Anaheim, 0.00
+20150511, Beverly Hills, 0.00
+20150511, Burbank, 0.00
+20150511, Glendale, 0.00
+20150511, Long Beach, 0.00
+20150511, Los Angeles, 0.00
+20150511, Pasadena, 0.00
+20150511, San Diego, 0.00
+20150511, San Fernando, 0.00
+20150511, San Marino, 0.00
+20150511, Santa Ana, 0.00
+20150511, Santa Monica, 0.00
+20150511, Torrance, 0.00
+20150510, Anaheim, 0.00
+20150510, Beverly Hills, 0.00
+20150510, Burbank, 0.00
+20150510, Glendale, 0.00
+20150510, Long Beach, 0.00
+20150510, Los Angeles, 0.00
+20150510, Pasadena, 0.00
+20150510, San Diego, 0.00
+20150510, San Fernando, 0.00
+20150510, San Marino, 0.00
+20150510, Santa Ana, 0.00
+20150510, Santa Monica, 0.00
+20150510, Torrance, 0.00
+20150509, Anaheim, 0.00
+20150509, Beverly Hills, 0.00
+20150509, Burbank, 0.00
+20150509, Glendale, 0.00
+20150509, Long Beach, 0.00
+20150509, Los Angeles, 0.00
+20150509, Pasadena, 0.00
+20150509, San Diego, NA
+20150509, San Fernando, 0.00
+20150509, San Marino, 0.00
+20150509, Santa Ana, 0.00
+20150509, Santa Monica, 0.00
+20150509, Torrance, 0.00
+20150508, Anaheim, 0.11
+20150508, Beverly Hills, 0.01
+20150508, Burbank, 0.01
+20150508, Glendale, 0.01
+20150508, Long Beach, 0.19
+20150508, Los Angeles, 0.18
+20150508, Pasadena, 0.01
+20150508, San Diego, 0.45
+20150508, San Fernando, 0.00
+20150508, San Marino, 0.00
+20150508, Santa Ana, 0.11
+20150508, Santa Monica, 0.01
+20150508, Torrance, 0.00
+20150507, Anaheim, 0.00
+20150507, Beverly Hills, 0.11
+20150507, Burbank, 0.08
+20150507, Glendale, 0.08
+20150507, Long Beach, NA
+20150507, Los Angeles, 0.03
+20150507, Pasadena, 0.08
+20150507, San Diego, 0.00
+20150507, San Fernando, 0.00
+20150507, San Marino, 0.00
+20150507, Santa Ana, 0.00
+20150507, Santa Monica, 0.11
+20150507, Torrance, 0.00
+20150506, Anaheim, 0.00
+20150506, Beverly Hills, 0.00
+20150506, Burbank, 0.00
+20150506, Glendale, 0.00
+20150506, Long Beach, 0.00
+20150506, Los Angeles, 0.00
+20150506, Pasadena, 0.00
+20150506, San Diego, 0.00
+20150506, San Fernando, 0.00
+20150506, San Marino, 0.00
+20150506, Santa Ana, 0.00
+20150506, Santa Monica, 0.00
+20150506, Torrance, 0.00
+20150505, Anaheim, 0.00
+20150505, Beverly Hills, 0.00
+20150505, Burbank, 0.00
+20150505, Glendale, 0.00
+20150505, Long Beach, 0.00
+20150505, Los Angeles, 0.00
+20150505, Pasadena, 0.00
+20150505, San Diego, 0.00
+20150505, San Fernando, 0.00
+20150505, San Marino, 0.00
+20150505, Santa Ana, 0.00
+20150505, Santa Monica, 0.00
+20150505, Torrance, 0.00
+20150504, Anaheim, 0.00
+20150504, Beverly Hills, 0.00
+20150504, Burbank, 0.00
+20150504, Glendale, 0.00
+20150504, Long Beach, 0.00
+20150504, Los Angeles, 0.00
+20150504, Pasadena, 0.00
+20150504, San Diego, 0.00
+20150504, San Fernando, 0.00
+20150504, San Marino, 0.00
+20150504, Santa Ana, 0.00
+20150504, Santa Monica, 0.00
+20150504, Torrance, 0.00
+20150503, Anaheim, 0.00
+20150503, Beverly Hills, 0.00
+20150503, Burbank, 0.00
+20150503, Glendale, 0.00
+20150503, Long Beach, 0.00
+20150503, Los Angeles, 0.00
+20150503, Pasadena, 0.00
+20150503, San Diego, 0.00
+20150503, San Fernando, 0.00
+20150503, San Marino, 0.00
+20150503, Santa Ana, 0.00
+20150503, Santa Monica, 0.00
+20150503, Torrance, 0.00
+20150502, Anaheim, 0.00
+20150502, Beverly Hills, 0.00
+20150502, Burbank, 0.00
+20150502, Glendale, 0.00
+20150502, Long Beach, 0.00
+20150502, Los Angeles, 0.00
+20150502, Pasadena, 0.00
+20150502, San Diego, 0.00
+20150502, San Fernando, 0.00
+20150502, San Marino, 0.00
+20150502, Santa Ana, 0.00
+20150502, Santa Monica, 0.00
+20150502, Torrance, 0.00
+20150501, Anaheim, 0.00
+20150501, Beverly Hills, 0.00
+20150501, Burbank, 0.00
+20150501, Glendale, 0.00
+20150501, Long Beach, 0.00
+20150501, Los Angeles, 0.00
+20150501, Pasadena, 0.00
+20150501, San Diego, 0.00
+20150501, San Fernando, 0.00
+20150501, San Marino, 0.00
+20150501, Santa Ana, 0.00
+20150501, Santa Monica, 0.00
+20150501, Torrance, 0.00
+20150430, Anaheim, 0.00
+20150430, Beverly Hills, 0.00
+20150430, Burbank, 0.00
+20150430, Glendale, 0.00
+20150430, Long Beach, 0.00
+20150430, Los Angeles, 0.00
+20150430, Pasadena, 0.00
+20150430, San Diego, 0.00
+20150430, San Fernando, 0.00
+20150430, San Marino, 0.00
+20150430, Santa Ana, 0.00
+20150430, Santa Monica, 0.00
+20150430, Torrance, 0.00
+20150429, Anaheim, 0.00
+20150429, Beverly Hills, 0.00
+20150429, Burbank, 0.00
+20150429, Glendale, 0.00
+20150429, Long Beach, 0.00
+20150429, Los Angeles, 0.00
+20150429, Pasadena, 0.00
+20150429, San Diego, 0.00
+20150429, San Fernando, 0.00
+20150429, San Marino, 0.00
+20150429, Santa Ana, 0.00
+20150429, Santa Monica, 0.00
+20150429, Torrance, 0.00
+20150428, Anaheim, 0.00
+20150428, Beverly Hills, 0.00
+20150428, Burbank, 0.00
+20150428, Glendale, 0.00
+20150428, Long Beach, 0.00
+20150428, Los Angeles, 0.00
+20150428, Pasadena, 0.00
+20150428, San Diego, 0.00
+20150428, San Fernando, 0.00
+20150428, San Marino, 0.00
+20150428, Santa Ana, 0.00
+20150428, Santa Monica, 0.00
+20150428, Torrance, 0.00
+20150427, Anaheim, 0.00
+20150427, Beverly Hills, 0.00
+20150427, Burbank, 0.00
+20150427, Glendale, 0.00
+20150427, Long Beach, 0.00
+20150427, Los Angeles, 0.00
+20150427, Pasadena, 0.00
+20150427, San Diego, 0.00
+20150427, San Fernando, 0.00
+20150427, San Marino, 0.00
+20150427, Santa Ana, 0.00
+20150427, Santa Monica, 0.00
+20150427, Torrance, 0.00
+20150426, Anaheim, 0.00
+20150426, Beverly Hills, 0.00
+20150426, Burbank, 0.00
+20150426, Glendale, 0.00
+20150426, Long Beach, 0.00
+20150426, Los Angeles, 0.00
+20150426, Pasadena, 0.00
+20150426, San Diego, 0.00
+20150426, San Fernando, 0.00
+20150426, San Marino, 0.00
+20150426, Santa Ana, 0.00
+20150426, Santa Monica, 0.00
+20150426, Torrance, 0.00
+20150425, Anaheim, 0.01
+20150425, Beverly Hills, 0.00
+20150425, Burbank, 0.15
+20150425, Glendale, 0.15
+20150425, Long Beach, 0.01
+20150425, Los Angeles, NA
+20150425, Pasadena, 0.15
+20150425, San Diego, 0.01
+20150425, San Fernando, 0.00
+20150425, San Marino, 0.00
+20150425, Santa Ana, 0.01
+20150425, Santa Monica, 0.00
+20150425, Torrance, 0.00
+20150424, Anaheim, NA
+20150424, Beverly Hills, 0.00
+20150424, Burbank, 0.00
+20150424, Glendale, 0.00
+20150424, Long Beach, 0.00
+20150424, Los Angeles, 0.00
+20150424, Pasadena, 0.00
+20150424, San Diego, NA
+20150424, San Fernando, 0.00
+20150424, San Marino, 0.00
+20150424, Santa Ana, 0.02
+20150424, Santa Monica, 0.00
+20150424, Torrance, 0.00
+20150423, Anaheim, 0.00
+20150423, Beverly Hills, 0.00
+20150423, Burbank, 0.00
+20150423, Glendale, 0.00
+20150423, Long Beach, 0.00
+20150423, Los Angeles, 0.00
+20150423, Pasadena, 0.00
+20150423, San Diego, 0.00
+20150423, San Fernando, 0.00
+20150423, San Marino, 0.00
+20150423, Santa Ana, 0.00
+20150423, Santa Monica, 0.00
+20150423, Torrance, 0.00
+20150422, Anaheim, 0.00
+20150422, Beverly Hills, 0.00
+20150422, Burbank, 0.00
+20150422, Glendale, 0.00
+20150422, Long Beach, 0.00
+20150422, Los Angeles, 0.00
+20150422, Pasadena, 0.00
+20150422, San Diego, NA
+20150422, San Fernando, 0.00
+20150422, San Marino, 0.00
+20150422, Santa Ana, 0.00
+20150422, Santa Monica, 0.00
+20150422, Torrance, 0.00
+20150421, Anaheim, 0.00
+20150421, Beverly Hills, 0.00
+20150421, Burbank, 0.00
+20150421, Glendale, 0.00
+20150421, Long Beach, 0.00
+20150421, Los Angeles, 0.00
+20150421, Pasadena, 0.00
+20150421, San Diego, 0.00
+20150421, San Fernando, 0.00
+20150421, San Marino, 0.00
+20150421, Santa Ana, 0.00
+20150421, Santa Monica, 0.00
+20150421, Torrance, 0.00
+20150420, Anaheim, 0.00
+20150420, Beverly Hills, 0.00
+20150420, Burbank, 0.00
+20150420, Glendale, 0.00
+20150420, Long Beach, 0.00
+20150420, Los Angeles, 0.00
+20150420, Pasadena, 0.00
+20150420, San Diego, 0.00
+20150420, San Fernando, 0.00
+20150420, San Marino, 0.00
+20150420, Santa Ana, 0.00
+20150420, Santa Monica, 0.00
+20150420, Torrance, 0.00
+20150419, Anaheim, 0.00
+20150419, Beverly Hills, 0.00
+20150419, Burbank, 0.00
+20150419, Glendale, 0.00
+20150419, Long Beach, 0.00
+20150419, Los Angeles, 0.00
+20150419, Pasadena, 0.00
+20150419, San Diego, 0.00
+20150419, San Fernando, 0.00
+20150419, San Marino, 0.00
+20150419, Santa Ana, 0.00
+20150419, Santa Monica, 0.00
+20150419, Torrance, 0.00
+20150418, Anaheim, 0.00
+20150418, Beverly Hills, 0.00
+20150418, Burbank, 0.00
+20150418, Glendale, 0.00
+20150418, Long Beach, 0.00
+20150418, Los Angeles, 0.00
+20150418, Pasadena, 0.00
+20150418, San Diego, 0.00
+20150418, San Fernando, 0.00
+20150418, San Marino, 0.00
+20150418, Santa Ana, 0.00
+20150418, Santa Monica, 0.00
+20150418, Torrance, 0.00
+20150417, Anaheim, 0.00
+20150417, Beverly Hills, 0.00
+20150417, Burbank, 0.00
+20150417, Glendale, 0.00
+20150417, Long Beach, 0.00
+20150417, Los Angeles, 0.00
+20150417, Pasadena, 0.00
+20150417, San Diego, 0.00
+20150417, San Fernando, 0.00
+20150417, San Marino, 0.00
+20150417, Santa Ana, 0.00
+20150417, Santa Monica, 0.00
+20150417, Torrance, 0.00
+20150416, Anaheim, 0.00
+20150416, Beverly Hills, 0.00
+20150416, Burbank, 0.00
+20150416, Glendale, 0.00
+20150416, Long Beach, 0.00
+20150416, Los Angeles, 0.00
+20150416, Pasadena, 0.00
+20150416, San Diego, 0.00
+20150416, San Fernando, 0.00
+20150416, San Marino, 0.00
+20150416, Santa Ana, 0.00
+20150416, Santa Monica, 0.00
+20150416, Torrance, 0.00
+20150415, Anaheim, 0.00
+20150415, Beverly Hills, 0.00
+20150415, Burbank, 0.00
+20150415, Glendale, 0.00
+20150415, Long Beach, 0.00
+20150415, Los Angeles, 0.00
+20150415, Pasadena, 0.00
+20150415, San Diego, 0.00
+20150415, San Fernando, 0.00
+20150415, San Marino, 0.00
+20150415, Santa Ana, 0.00
+20150415, Santa Monica, 0.00
+20150415, Torrance, 0.00
+20150414, Anaheim, 0.00
+20150414, Beverly Hills, 0.00
+20150414, Burbank, 0.00
+20150414, Glendale, 0.00
+20150414, Long Beach, 0.00
+20150414, Los Angeles, 0.00
+20150414, Pasadena, 0.00
+20150414, San Diego, 0.00
+20150414, San Fernando, 0.00
+20150414, San Marino, 0.00
+20150414, Santa Ana, 0.00
+20150414, Santa Monica, 0.00
+20150414, Torrance, 0.00
+20150413, Anaheim, 0.00
+20150413, Beverly Hills, 0.00
+20150413, Burbank, 0.00
+20150413, Glendale, 0.00
+20150413, Long Beach, 0.00
+20150413, Los Angeles, 0.00
+20150413, Pasadena, 0.00
+20150413, San Diego, 0.00
+20150413, San Fernando, 0.00
+20150413, San Marino, 0.00
+20150413, Santa Ana, 0.00
+20150413, Santa Monica, 0.00
+20150413, Torrance, 0.00
+20150412, Anaheim, 0.00
+20150412, Beverly Hills, 0.00
+20150412, Burbank, 0.00
+20150412, Glendale, 0.00
+20150412, Long Beach, 0.00
+20150412, Los Angeles, 0.00
+20150412, Pasadena, 0.00
+20150412, San Diego, 0.00
+20150412, San Fernando, 0.00
+20150412, San Marino, 0.00
+20150412, Santa Ana, 0.00
+20150412, Santa Monica, 0.00
+20150412, Torrance, 0.00
+20150411, Anaheim, 0.00
+20150411, Beverly Hills, 0.00
+20150411, Burbank, 0.00
+20150411, Glendale, 0.00
+20150411, Long Beach, 0.00
+20150411, Los Angeles, 0.00
+20150411, Pasadena, 0.00
+20150411, San Diego, 0.00
+20150411, San Fernando, 0.00
+20150411, San Marino, 0.00
+20150411, Santa Ana, 0.00
+20150411, Santa Monica, 0.00
+20150411, Torrance, 0.00
+20150410, Anaheim, 0.00
+20150410, Beverly Hills, 0.00
+20150410, Burbank, 0.00
+20150410, Glendale, 0.00
+20150410, Long Beach, 0.00
+20150410, Los Angeles, 0.00
+20150410, Pasadena, 0.00
+20150410, San Diego, 0.00
+20150410, San Fernando, 0.00
+20150410, San Marino, 0.00
+20150410, Santa Ana, 0.00
+20150410, Santa Monica, 0.00
+20150410, Torrance, 0.00
+20150409, Anaheim, 0.00
+20150409, Beverly Hills, 0.00
+20150409, Burbank, 0.00
+20150409, Glendale, 0.00
+20150409, Long Beach, 0.00
+20150409, Los Angeles, 0.00
+20150409, Pasadena, 0.00
+20150409, San Diego, 0.00
+20150409, San Fernando, 0.00
+20150409, San Marino, 0.00
+20150409, Santa Ana, 0.00
+20150409, Santa Monica, 0.00
+20150409, Torrance, 0.00
+20150408, Anaheim, 0.00
+20150408, Beverly Hills, 0.00
+20150408, Burbank, 0.00
+20150408, Glendale, 0.00
+20150408, Long Beach, 0.00
+20150408, Los Angeles, 0.00
+20150408, Pasadena, 0.00
+20150408, San Diego, 0.00
+20150408, San Fernando, 0.00
+20150408, San Marino, 0.00
+20150408, Santa Ana, 0.00
+20150408, Santa Monica, 0.00
+20150408, Torrance, 0.00
+20150407, Anaheim, 0.00
+20150407, Beverly Hills, 0.24
+20150407, Burbank, 0.10
+20150407, Glendale, 0.10
+20150407, Long Beach, 0.21
+20150407, Los Angeles, 0.13
+20150407, Pasadena, 0.10
+20150407, San Diego, 0.00
+20150407, San Fernando, 0.00
+20150407, San Marino, 0.00
+20150407, Santa Ana, 0.00
+20150407, Santa Monica, 0.24
+20150407, Torrance, 0.00
+20150406, Anaheim, 0.00
+20150406, Beverly Hills, 0.00
+20150406, Burbank, 0.00
+20150406, Glendale, 0.00
+20150406, Long Beach, 0.00
+20150406, Los Angeles, 0.00
+20150406, Pasadena, 0.00
+20150406, San Diego, NA
+20150406, San Fernando, 0.00
+20150406, San Marino, 0.00
+20150406, Santa Ana, 0.00
+20150406, Santa Monica, 0.00
+20150406, Torrance, 0.00
+20150405, Anaheim, 0.00
+20150405, Beverly Hills, 0.00
+20150405, Burbank, 0.00
+20150405, Glendale, 0.00
+20150405, Long Beach, 0.00
+20150405, Los Angeles, 0.00
+20150405, Pasadena, 0.00
+20150405, San Diego, 0.00
+20150405, San Fernando, 0.00
+20150405, San Marino, 0.00
+20150405, Santa Ana, 0.00
+20150405, Santa Monica, 0.00
+20150405, Torrance, 0.00
+20150404, Anaheim, 0.00
+20150404, Beverly Hills, 0.00
+20150404, Burbank, 0.00
+20150404, Glendale, 0.00
+20150404, Long Beach, 0.00
+20150404, Los Angeles, 0.00
+20150404, Pasadena, 0.00
+20150404, San Diego, 0.00
+20150404, San Fernando, 0.00
+20150404, San Marino, 0.00
+20150404, Santa Ana, NA
+20150404, Santa Monica, 0.00
+20150404, Torrance, 0.00
+20150403, Anaheim, 0.00
+20150403, Beverly Hills, 0.00
+20150403, Burbank, 0.00
+20150403, Glendale, 0.00
+20150403, Long Beach, 0.00
+20150403, Los Angeles, 0.00
+20150403, Pasadena, 0.00
+20150403, San Diego, 0.00
+20150403, San Fernando, 0.00
+20150403, San Marino, 0.00
+20150403, Santa Ana, 0.00
+20150403, Santa Monica, 0.00
+20150403, Torrance, 0.00
+20150402, Anaheim, 0.00
+20150402, Beverly Hills, 0.00
+20150402, Burbank, 0.00
+20150402, Glendale, 0.00
+20150402, Long Beach, 0.00
+20150402, Los Angeles, 0.00
+20150402, Pasadena, 0.00
+20150402, San Diego, 0.00
+20150402, San Fernando, 0.00
+20150402, San Marino, 0.00
+20150402, Santa Ana, 0.00
+20150402, Santa Monica, 0.00
+20150402, Torrance, 0.00
+20150401, Anaheim, 0.00
+20150401, Beverly Hills, 0.00
+20150401, Burbank, 0.00
+20150401, Glendale, 0.00
+20150401, Long Beach, 0.00
+20150401, Los Angeles, 0.00
+20150401, Pasadena, 0.00
+20150401, San Diego, 0.00
+20150401, San Fernando, 0.00
+20150401, San Marino, 0.00
+20150401, Santa Ana, 0.00
+20150401, Santa Monica, 0.00
+20150401, Torrance, 0.00
+20150331, Anaheim, 0.00
+20150331, Beverly Hills, 0.00
+20150331, Burbank, 0.00
+20150331, Glendale, 0.00
+20150331, Long Beach, 0.00
+20150331, Los Angeles, 0.00
+20150331, Pasadena, 0.00
+20150331, San Diego, 0.00
+20150331, San Fernando, 0.00
+20150331, San Marino, 0.00
+20150331, Santa Ana, 0.00
+20150331, Santa Monica, 0.00
+20150331, Torrance, 0.00
+20150330, Anaheim, 0.00
+20150330, Beverly Hills, 0.00
+20150330, Burbank, 0.00
+20150330, Glendale, 0.00
+20150330, Long Beach, 0.00
+20150330, Los Angeles, 0.00
+20150330, Pasadena, 0.00
+20150330, San Diego, 0.00
+20150330, San Fernando, 0.00
+20150330, San Marino, 0.00
+20150330, Santa Ana, 0.00
+20150330, Santa Monica, 0.00
+20150330, Torrance, 0.00
+20150329, Anaheim, 0.00
+20150329, Beverly Hills, 0.00
+20150329, Burbank, 0.00
+20150329, Glendale, 0.00
+20150329, Long Beach, 0.00
+20150329, Los Angeles, 0.00
+20150329, Pasadena, 0.00
+20150329, San Diego, 0.00
+20150329, San Fernando, 0.00
+20150329, San Marino, 0.00
+20150329, Santa Ana, 0.00
+20150329, Santa Monica, 0.00
+20150329, Torrance, 0.00
+20150328, Anaheim, 0.00
+20150328, Beverly Hills, 0.00
+20150328, Burbank, 0.00
+20150328, Glendale, 0.00
+20150328, Long Beach, 0.00
+20150328, Los Angeles, 0.00
+20150328, Pasadena, 0.00
+20150328, San Diego, 0.00
+20150328, San Fernando, 0.00
+20150328, San Marino, 0.00
+20150328, Santa Ana, 0.00
+20150328, Santa Monica, 0.00
+20150328, Torrance, 0.00
+20150327, Anaheim, 0.00
+20150327, Beverly Hills, 0.00
+20150327, Burbank, 0.00
+20150327, Glendale, 0.00
+20150327, Long Beach, 0.00
+20150327, Los Angeles, 0.00
+20150327, Pasadena, 0.00
+20150327, San Diego, 0.00
+20150327, San Fernando, 0.00
+20150327, San Marino, 0.00
+20150327, Santa Ana, 0.00
+20150327, Santa Monica, 0.00
+20150327, Torrance, 0.00
+20150326, Anaheim, 0.00
+20150326, Beverly Hills, 0.00
+20150326, Burbank, 0.00
+20150326, Glendale, 0.00
+20150326, Long Beach, 0.00
+20150326, Los Angeles, 0.00
+20150326, Pasadena, 0.00
+20150326, San Diego, 0.00
+20150326, San Fernando, 0.00
+20150326, San Marino, 0.00
+20150326, Santa Ana, 0.00
+20150326, Santa Monica, 0.00
+20150326, Torrance, 0.00
+20150325, Anaheim, 0.00
+20150325, Beverly Hills, 0.00
+20150325, Burbank, 0.00
+20150325, Glendale, 0.00
+20150325, Long Beach, 0.00
+20150325, Los Angeles, 0.00
+20150325, Pasadena, 0.00
+20150325, San Diego, 0.00
+20150325, San Fernando, 0.00
+20150325, San Marino, 0.00
+20150325, Santa Ana, 0.00
+20150325, Santa Monica, 0.00
+20150325, Torrance, 0.00
+20150324, Anaheim, 0.00
+20150324, Beverly Hills, 0.00
+20150324, Burbank, 0.00
+20150324, Glendale, 0.00
+20150324, Long Beach, 0.00
+20150324, Los Angeles, 0.00
+20150324, Pasadena, 0.00
+20150324, San Diego, 0.00
+20150324, San Fernando, 0.00
+20150324, San Marino, 0.00
+20150324, Santa Ana, 0.00
+20150324, Santa Monica, 0.00
+20150324, Torrance, 0.00
+20150323, Anaheim, 0.00
+20150323, Beverly Hills, 0.00
+20150323, Burbank, 0.00
+20150323, Glendale, 0.00
+20150323, Long Beach, 0.00
+20150323, Los Angeles, 0.00
+20150323, Pasadena, 0.00
+20150323, San Diego, 0.00
+20150323, San Fernando, 0.00
+20150323, San Marino, 0.00
+20150323, Santa Ana, 0.00
+20150323, Santa Monica, 0.00
+20150323, Torrance, 0.00
+20150322, Anaheim, 0.00
+20150322, Beverly Hills, 0.00
+20150322, Burbank, 0.00
+20150322, Glendale, 0.00
+20150322, Long Beach, 0.00
+20150322, Los Angeles, 0.00
+20150322, Pasadena, 0.00
+20150322, San Diego, 0.00
+20150322, San Fernando, 0.00
+20150322, San Marino, 0.00
+20150322, Santa Ana, 0.00
+20150322, Santa Monica, 0.00
+20150322, Torrance, 0.00
+20150321, Anaheim, 0.00
+20150321, Beverly Hills, 0.00
+20150321, Burbank, 0.00
+20150321, Glendale, 0.00
+20150321, Long Beach, 0.00
+20150321, Los Angeles, 0.00
+20150321, Pasadena, 0.00
+20150321, San Diego, 0.00
+20150321, San Fernando, 0.00
+20150321, San Marino, 0.00
+20150321, Santa Ana, 0.00
+20150321, Santa Monica, 0.00
+20150321, Torrance, 0.00
+20150320, Anaheim, 0.00
+20150320, Beverly Hills, 0.00
+20150320, Burbank, 0.00
+20150320, Glendale, 0.00
+20150320, Long Beach, 0.00
+20150320, Los Angeles, 0.00
+20150320, Pasadena, 0.00
+20150320, San Diego, 0.00
+20150320, San Fernando, 0.00
+20150320, San Marino, 0.00
+20150320, Santa Ana, 0.00
+20150320, Santa Monica, 0.00
+20150320, Torrance, 0.00
+20150319, Anaheim, 0.00
+20150319, Beverly Hills, 0.00
+20150319, Burbank, 0.00
+20150319, Glendale, 0.00
+20150319, Long Beach, 0.00
+20150319, Los Angeles, 0.00
+20150319, Pasadena, 0.00
+20150319, San Diego, 0.00
+20150319, San Fernando, 0.00
+20150319, San Marino, 0.00
+20150319, Santa Ana, 0.00
+20150319, Santa Monica, 0.00
+20150319, Torrance, 0.00
+20150318, Anaheim, 0.00
+20150318, Beverly Hills, 0.00
+20150318, Burbank, NA
+20150318, Glendale, NA
+20150318, Long Beach, 0.00
+20150318, Los Angeles, NA
+20150318, Pasadena, NA
+20150318, San Diego, 0.00
+20150318, San Fernando, 0.00
+20150318, San Marino, 0.00
+20150318, Santa Ana, 0.00
+20150318, Santa Monica, 0.00
+20150318, Torrance, 0.00
+20150317, Anaheim, 0.00
+20150317, Beverly Hills, 0.00
+20150317, Burbank, 0.00
+20150317, Glendale, 0.00
+20150317, Long Beach, 0.00
+20150317, Los Angeles, 0.00
+20150317, Pasadena, 0.00
+20150317, San Diego, 0.00
+20150317, San Fernando, 0.00
+20150317, San Marino, 0.00
+20150317, Santa Ana, 0.00
+20150317, Santa Monica, 0.00
+20150317, Torrance, 0.00
+20150316, Anaheim, 0.00
+20150316, Beverly Hills, 0.00
+20150316, Burbank, 0.00
+20150316, Glendale, 0.00
+20150316, Long Beach, 0.00
+20150316, Los Angeles, 0.00
+20150316, Pasadena, 0.00
+20150316, San Diego, 0.00
+20150316, San Fernando, 0.00
+20150316, San Marino, 0.00
+20150316, Santa Ana, 0.00
+20150316, Santa Monica, 0.00
+20150316, Torrance, 0.00
+20150315, Anaheim, 0.00
+20150315, Beverly Hills, 0.00
+20150315, Burbank, 0.00
+20150315, Glendale, 0.00
+20150315, Long Beach, 0.00
+20150315, Los Angeles, 0.00
+20150315, Pasadena, 0.00
+20150315, San Diego, 0.00
+20150315, San Fernando, 0.00
+20150315, San Marino, 0.00
+20150315, Santa Ana, 0.00
+20150315, Santa Monica, 0.00
+20150315, Torrance, 0.00
+20150314, Anaheim, 0.00
+20150314, Beverly Hills, 0.00
+20150314, Burbank, 0.00
+20150314, Glendale, 0.00
+20150314, Long Beach, 0.00
+20150314, Los Angeles, 0.00
+20150314, Pasadena, 0.00
+20150314, San Diego, 0.00
+20150314, San Fernando, 0.00
+20150314, San Marino, 0.00
+20150314, Santa Ana, 0.00
+20150314, Santa Monica, 0.00
+20150314, Torrance, 0.00
+20150313, Anaheim, 0.00
+20150313, Beverly Hills, 0.00
+20150313, Burbank, 0.00
+20150313, Glendale, 0.00
+20150313, Long Beach, 0.00
+20150313, Los Angeles, 0.00
+20150313, Pasadena, 0.00
+20150313, San Diego, 0.00
+20150313, San Fernando, 0.00
+20150313, San Marino, 0.00
+20150313, Santa Ana, 0.00
+20150313, Santa Monica, 0.00
+20150313, Torrance, 0.00
+20150312, Anaheim, 0.00
+20150312, Beverly Hills, 0.00
+20150312, Burbank, 0.00
+20150312, Glendale, 0.00
+20150312, Long Beach, 0.00
+20150312, Los Angeles, 0.00
+20150312, Pasadena, 0.00
+20150312, San Diego, 0.00
+20150312, San Fernando, 0.00
+20150312, San Marino, 0.00
+20150312, Santa Ana, 0.00
+20150312, Santa Monica, 0.00
+20150312, Torrance, 0.00
+20150311, Anaheim, 0.00
+20150311, Beverly Hills, 0.00
+20150311, Burbank, NA
+20150311, Glendale, NA
+20150311, Long Beach, NA
+20150311, Los Angeles, NA
+20150311, Pasadena, NA
+20150311, San Diego, 0.00
+20150311, San Fernando, 0.00
+20150311, San Marino, 0.00
+20150311, Santa Ana, 0.00
+20150311, Santa Monica, 0.00
+20150311, Torrance, 0.00
+20150310, Anaheim, 0.00
+20150310, Beverly Hills, 0.00
+20150310, Burbank, 0.00
+20150310, Glendale, 0.00
+20150310, Long Beach, 0.00
+20150310, Los Angeles, 0.00
+20150310, Pasadena, 0.00
+20150310, San Diego, 0.00
+20150310, San Fernando, 0.00
+20150310, San Marino, 0.00
+20150310, Santa Ana, 0.00
+20150310, Santa Monica, 0.00
+20150310, Torrance, 0.00
+20150309, Anaheim, 0.00
+20150309, Beverly Hills, 0.00
+20150309, Burbank, 0.00
+20150309, Glendale, 0.00
+20150309, Long Beach, 0.00
+20150309, Los Angeles, 0.00
+20150309, Pasadena, 0.00
+20150309, San Diego, 0.00
+20150309, San Fernando, 0.00
+20150309, San Marino, 0.00
+20150309, Santa Ana, 0.00
+20150309, Santa Monica, 0.00
+20150309, Torrance, 0.00
+20150308, Anaheim, 0.00
+20150308, Beverly Hills, 0.00
+20150308, Burbank, 0.00
+20150308, Glendale, 0.00
+20150308, Long Beach, 0.00
+20150308, Los Angeles, 0.00
+20150308, Pasadena, 0.00
+20150308, San Diego, 0.00
+20150308, San Fernando, 0.00
+20150308, San Marino, 0.00
+20150308, Santa Ana, 0.00
+20150308, Santa Monica, 0.00
+20150308, Torrance, 0.00
+20150307, Anaheim, 0.00
+20150307, Beverly Hills, 0.00
+20150307, Burbank, 0.00
+20150307, Glendale, 0.00
+20150307, Long Beach, 0.00
+20150307, Los Angeles, 0.00
+20150307, Pasadena, 0.00
+20150307, San Diego, 0.00
+20150307, San Fernando, 0.00
+20150307, San Marino, 0.00
+20150307, Santa Ana, 0.00
+20150307, Santa Monica, 0.00
+20150307, Torrance, 0.00
+20150306, Anaheim, 0.00
+20150306, Beverly Hills, 0.00
+20150306, Burbank, 0.00
+20150306, Glendale, 0.00
+20150306, Long Beach, 0.00
+20150306, Los Angeles, 0.00
+20150306, Pasadena, 0.00
+20150306, San Diego, 0.00
+20150306, San Fernando, 0.00
+20150306, San Marino, 0.00
+20150306, Santa Ana, 0.00
+20150306, Santa Monica, 0.00
+20150306, Torrance, 0.00
+20150305, Anaheim, 0.00
+20150305, Beverly Hills, 0.00
+20150305, Burbank, 0.00
+20150305, Glendale, 0.00
+20150305, Long Beach, 0.00
+20150305, Los Angeles, 0.00
+20150305, Pasadena, 0.00
+20150305, San Diego, 0.00
+20150305, San Fernando, 0.00
+20150305, San Marino, 0.00
+20150305, Santa Ana, 0.00
+20150305, Santa Monica, 0.00
+20150305, Torrance, 0.00
+20150304, Anaheim, 0.00
+20150304, Beverly Hills, 0.00
+20150304, Burbank, 0.00
+20150304, Glendale, 0.00
+20150304, Long Beach, 0.00
+20150304, Los Angeles, 0.00
+20150304, Pasadena, 0.00
+20150304, San Diego, 0.00
+20150304, San Fernando, 0.00
+20150304, San Marino, 0.00
+20150304, Santa Ana, 0.00
+20150304, Santa Monica, 0.00
+20150304, Torrance, 0.00
+20150303, Anaheim, 0.00
+20150303, Beverly Hills, 0.01
+20150303, Burbank, NA
+20150303, Glendale, NA
+20150303, Long Beach, 0.00
+20150303, Los Angeles, 0.00
+20150303, Pasadena, NA
+20150303, San Diego, 0.00
+20150303, San Fernando, 0.00
+20150303, San Marino, 0.00
+20150303, Santa Ana, 0.00
+20150303, Santa Monica, 0.01
+20150303, Torrance, 0.00
+20150302, Anaheim, 0.33
+20150302, Beverly Hills, 0.01
+20150302, Burbank, 0.20
+20150302, Glendale, 0.20
+20150302, Long Beach, 0.46
+20150302, Los Angeles, 0.21
+20150302, Pasadena, 0.20
+20150302, San Diego, 0.23
+20150302, San Fernando, 0.00
+20150302, San Marino, 0.00
+20150302, Santa Ana, 0.58
+20150302, Santa Monica, 0.01
+20150302, Torrance, 0.00
+20150301, Anaheim, 0.06
+20150301, Beverly Hills, 2.59
+20150301, Burbank, 0.63
+20150301, Glendale, 0.63
+20150301, Long Beach, 0.03
+20150301, Los Angeles, 0.66
+20150301, Pasadena, 0.63
+20150301, San Diego, 0.66
+20150301, San Fernando, 0.00
+20150301, San Marino, 0.00
+20150301, Santa Ana, 0.19
+20150301, Santa Monica, 2.59
+20150301, Torrance, 0.00
+20150228, Anaheim, 0.00
+20150228, Beverly Hills, 0.01
+20150228, Burbank, 0.12
+20150228, Glendale, 0.12
+20150228, Long Beach, NA
+20150228, Los Angeles, 0.11
+20150228, Pasadena, 0.12
+20150228, San Diego, NA
+20150228, San Fernando, 0.00
+20150228, San Marino, 0.00
+20150228, Santa Ana, NA
+20150228, Santa Monica, 0.01
+20150228, Torrance, 0.00
+20150227, Anaheim, 0.00
+20150227, Beverly Hills, 0.00
+20150227, Burbank, 0.00
+20150227, Glendale, 0.00
+20150227, Long Beach, 0.00
+20150227, Los Angeles, 0.00
+20150227, Pasadena, 0.00
+20150227, San Diego, 0.00
+20150227, San Fernando, 0.00
+20150227, San Marino, 0.00
+20150227, Santa Ana, 0.00
+20150227, Santa Monica, 0.00
+20150227, Torrance, 0.00
+20150226, Anaheim, 0.00
+20150226, Beverly Hills, 0.00
+20150226, Burbank, 0.00
+20150226, Glendale, 0.00
+20150226, Long Beach, 0.00
+20150226, Los Angeles, 0.00
+20150226, Pasadena, 0.00
+20150226, San Diego, 0.00
+20150226, San Fernando, 0.00
+20150226, San Marino, 0.00
+20150226, Santa Ana, 0.00
+20150226, Santa Monica, 0.00
+20150226, Torrance, 0.00
+20150225, Anaheim, 0.00
+20150225, Beverly Hills, 0.00
+20150225, Burbank, 0.00
+20150225, Glendale, 0.00
+20150225, Long Beach, 0.00
+20150225, Los Angeles, 0.00
+20150225, Pasadena, 0.00
+20150225, San Diego, 0.00
+20150225, San Fernando, 0.00
+20150225, San Marino, 0.00
+20150225, Santa Ana, 0.00
+20150225, Santa Monica, 0.00
+20150225, Torrance, 0.00
+20150224, Anaheim, 0.00
+20150224, Beverly Hills, 0.00
+20150224, Burbank, 0.00
+20150224, Glendale, 0.00
+20150224, Long Beach, 0.00
+20150224, Los Angeles, 0.00
+20150224, Pasadena, 0.00
+20150224, San Diego, 0.00
+20150224, San Fernando, 0.00
+20150224, San Marino, 0.00
+20150224, Santa Ana, 0.00
+20150224, Santa Monica, 0.00
+20150224, Torrance, 0.00
+20150223, Anaheim, 0.01
+20150223, Beverly Hills, 0.00
+20150223, Burbank, 0.14
+20150223, Glendale, 0.14
+20150223, Long Beach, 0.06
+20150223, Los Angeles, NA
+20150223, Pasadena, 0.14
+20150223, San Diego, 0.04
+20150223, San Fernando, 0.00
+20150223, San Marino, 0.00
+20150223, Santa Ana, 0.13
+20150223, Santa Monica, 0.00
+20150223, Torrance, 0.00
+20150222, Anaheim, NA
+20150222, Beverly Hills, 0.00
+20150222, Burbank, 0.32
+20150222, Glendale, 0.32
+20150222, Long Beach, 0.18
+20150222, Los Angeles, 0.70
+20150222, Pasadena, 0.32
+20150222, San Diego, NA
+20150222, San Fernando, 0.00
+20150222, San Marino, 0.00
+20150222, Santa Ana, 0.01
+20150222, Santa Monica, 0.00
+20150222, Torrance, 0.00
+20150221, Anaheim, 0.00
+20150221, Beverly Hills, 0.00
+20150221, Burbank, 0.00
+20150221, Glendale, 0.00
+20150221, Long Beach, 0.00
+20150221, Los Angeles, 0.00
+20150221, Pasadena, 0.00
+20150221, San Diego, 0.00
+20150221, San Fernando, 0.00
+20150221, San Marino, 0.00
+20150221, Santa Ana, 0.00
+20150221, Santa Monica, 0.00
+20150221, Torrance, 0.00
+20150220, Anaheim, 0.00
+20150220, Beverly Hills, 0.00
+20150220, Burbank, 0.00
+20150220, Glendale, 0.00
+20150220, Long Beach, 0.00
+20150220, Los Angeles, 0.00
+20150220, Pasadena, 0.00
+20150220, San Diego, 0.00
+20150220, San Fernando, 0.00
+20150220, San Marino, 0.00
+20150220, Santa Ana, 0.00
+20150220, Santa Monica, 0.00
+20150220, Torrance, 0.00
+20150219, Anaheim, 0.00
+20150219, Beverly Hills, 0.00
+20150219, Burbank, 0.00
+20150219, Glendale, 0.00
+20150219, Long Beach, 0.00
+20150219, Los Angeles, 0.00
+20150219, Pasadena, 0.00
+20150219, San Diego, 0.00
+20150219, San Fernando, 0.00
+20150219, San Marino, 0.00
+20150219, Santa Ana, 0.00
+20150219, Santa Monica, 0.00
+20150219, Torrance, 0.00
+20150218, Anaheim, 0.00
+20150218, Beverly Hills, 0.00
+20150218, Burbank, 0.00
+20150218, Glendale, 0.00
+20150218, Long Beach, 0.00
+20150218, Los Angeles, 0.00
+20150218, Pasadena, 0.00
+20150218, San Diego, 0.00
+20150218, San Fernando, 0.00
+20150218, San Marino, 0.00
+20150218, Santa Ana, 0.00
+20150218, Santa Monica, 0.00
+20150218, Torrance, 0.00
+20150217, Anaheim, 0.00
+20150217, Beverly Hills, 0.00
+20150217, Burbank, 0.00
+20150217, Glendale, 0.00
+20150217, Long Beach, 0.00
+20150217, Los Angeles, 0.00
+20150217, Pasadena, 0.00
+20150217, San Diego, 0.00
+20150217, San Fernando, 0.00
+20150217, San Marino, 0.00
+20150217, Santa Ana, 0.00
+20150217, Santa Monica, 0.00
+20150217, Torrance, 0.00
+20150216, Anaheim, 0.00
+20150216, Beverly Hills, 0.00
+20150216, Burbank, 0.00
+20150216, Glendale, 0.00
+20150216, Long Beach, 0.00
+20150216, Los Angeles, 0.00
+20150216, Pasadena, 0.00
+20150216, San Diego, 0.00
+20150216, San Fernando, 0.00
+20150216, San Marino, 0.00
+20150216, Santa Ana, 0.00
+20150216, Santa Monica, 0.00
+20150216, Torrance, 0.00
+20150215, Anaheim, 0.00
+20150215, Beverly Hills, 0.00
+20150215, Burbank, 0.00
+20150215, Glendale, 0.00
+20150215, Long Beach, 0.00
+20150215, Los Angeles, 0.00
+20150215, Pasadena, 0.00
+20150215, San Diego, 0.00
+20150215, San Fernando, 0.00
+20150215, San Marino, 0.00
+20150215, Santa Ana, 0.00
+20150215, Santa Monica, 0.00
+20150215, Torrance, 0.00
+20150214, Anaheim, 0.00
+20150214, Beverly Hills, 0.00
+20150214, Burbank, 0.00
+20150214, Glendale, 0.00
+20150214, Long Beach, 0.00
+20150214, Los Angeles, 0.00
+20150214, Pasadena, 0.00
+20150214, San Diego, 0.00
+20150214, San Fernando, 0.00
+20150214, San Marino, 0.00
+20150214, Santa Ana, 0.00
+20150214, Santa Monica, 0.00
+20150214, Torrance, 0.00
+20150213, Anaheim, 0.00
+20150213, Beverly Hills, 0.00
+20150213, Burbank, 0.00
+20150213, Glendale, 0.00
+20150213, Long Beach, 0.00
+20150213, Los Angeles, 0.00
+20150213, Pasadena, 0.00
+20150213, San Diego, 0.00
+20150213, San Fernando, 0.00
+20150213, San Marino, 0.00
+20150213, Santa Ana, 0.00
+20150213, Santa Monica, 0.00
+20150213, Torrance, 0.00
+20150212, Anaheim, 0.00
+20150212, Beverly Hills, 0.00
+20150212, Burbank, 0.00
+20150212, Glendale, 0.00
+20150212, Long Beach, 0.00
+20150212, Los Angeles, 0.00
+20150212, Pasadena, 0.00
+20150212, San Diego, 0.00
+20150212, San Fernando, 0.00
+20150212, San Marino, 0.00
+20150212, Santa Ana, 0.00
+20150212, Santa Monica, 0.00
+20150212, Torrance, 0.00
+20150211, Anaheim, 0.00
+20150211, Beverly Hills, 0.00
+20150211, Burbank, 0.00
+20150211, Glendale, 0.00
+20150211, Long Beach, 0.00
+20150211, Los Angeles, 0.00
+20150211, Pasadena, 0.00
+20150211, San Diego, 0.00
+20150211, San Fernando, 0.00
+20150211, San Marino, 0.00
+20150211, Santa Ana, 0.00
+20150211, Santa Monica, 0.00
+20150211, Torrance, 0.00
