@@ -133,8 +133,8 @@ class WaterScrapper:
 
 def engine(selectedDate):
 	client = MongoClient('localhost', 27017)
-	db = client['cs-594-project']
-	#meterCollection = db['meterData'+str(selectedDate)]
+	db = client['meterData']
+	
 	fileName = 'meterData.txt'
 	dateString = str(selectedDate.month) +"/"+ str(selectedDate.day) + "/" + str(selectedDate.year)
 	meterCollection = db['meterData-'+dateString]
@@ -161,14 +161,20 @@ def engine(selectedDate):
 			formattedLine = dateString + ", " + value + ", "  + data['value'] + "\n"
 			print dateString + ", " + value + ", "  + data['value'] + ' AF'
 			appender.write(formattedLine)
-			meterCollection.insert({"Date": dateString, "City": value, "Rain": data['value']})
+			meterCollection.insert({"Date": dateString, "City": value, "Water": data['value']})
 
 	appender.close()
 	reader.close()
 
 def main():
-	selectedDate = datetime(2015, 1, 1, 00,00,00).date()
-	engine(selectedDate)
+	januaryFirst = datetime(2015, 1, 1, 00,00,00).date()
+	daysCount = date.today()-januaryFirst
+	print daysCount
+	for iterator in range(0, daysCount.days):
+		print "========"
+		selectedDate = date.today() - timedelta(days=iterator)
+		engine(selectedDate)
+		print "========"
 
 
 if __name__ == "__main__": main()
