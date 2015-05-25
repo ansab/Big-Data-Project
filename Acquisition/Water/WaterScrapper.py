@@ -4,11 +4,14 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.remote.webelement import  WebElement
+from selenium.webdriver.remote.webelement import WebElement
 import time
 from bs4 import BeautifulSoup
 import re
-from datetime import date, timedelta
+from datetime import datetime, date, timedelta
+import pymongo
+from pymongo import MongoClient
+
 
 class WaterScrapper:
     def __init__(self, date, countyName):
@@ -26,11 +29,11 @@ class WaterScrapper:
         self._previewReportButtonID = 'ctl00_ContentPlaceHolder1_PreviewRptLinkButton'
         self._externalFrameID = 'documentFrame000hb'
         self._internalFrameID = 'ceframe'
-        self._containerDivClassPattern = re.compile("adi4g")
-        self._meterDataClassPattern = re.compile("fci4g")
+        self._containerDivClassPattern = re.compile("adi4")
+        self._meterDataClassPattern = re.compile("fci4")
 
         self._driver = webdriver.Firefox()
-        self._driver.implicitly_wait(self._initialTimeDelay) # seconds
+        self._driver.implicitly_wait(self._initialTimeDelay)  # seconds
         self._driver.get(self._url)
         # self._wait for loading form
         self._wait = WebDriverWait(self._driver, self._initialTimeDelay)
@@ -39,13 +42,13 @@ class WaterScrapper:
     def startEngine(self):
 
         # Get anchor link for report form
-        reportLink = self._wait.until(EC.element_to_be_clickable((By.ID,self._reportLinkID)))
+        reportLink = self._wait.until(EC.element_to_be_clickable((By.ID, self._reportLinkID)))
         # Click report link
         reportLink.send_keys(Keys.RETURN)
         time.sleep(self._timeDelay)
 
         try:
-            countyTag = self._wait.until(EC.presence_of_element_located((By.ID,self._countySelectID)))
+            countyTag = self._wait.until(EC.presence_of_element_located((By.ID, self._countySelectID)))
             countySelectTag = Select(countyTag)
             countySelectTag.select_by_value(self._countyName)
         except Exception as e:
@@ -54,7 +57,7 @@ class WaterScrapper:
         time.sleep(self._timeDelay)
 
         try:
-            meterTag = self._wait.until(EC.presence_of_element_located((By.ID,self._meterSelectID)))
+            meterTag = self._wait.until(EC.presence_of_element_located((By.ID, self._meterSelectID)))
             meterSelectTag = Select(meterTag)
             meterSelectTag.select_by_value('All')
         except Exception as e:
@@ -70,6 +73,9 @@ class WaterScrapper:
             endDateInputField = self._driver.find_element_by_id(self._endDateID)
             endDateInputField.send_keys(self._date)
             time.sleep(self._timeDelay)
+
+        # if (len(startDateInputField.get_attribute("value")) < 0 or len(endDateInputField.get_attribute("value")) < 0):
+        # return self.handleException("Missing dates", None)
 
         previewReportButton = self._driver.find_element_by_id(self._previewReportButtonID)
         previewReportButton.send_keys(Keys.RETURN)
@@ -92,7 +98,7 @@ class WaterScrapper:
         self._driver.switch_to.frame(externalFrame)
         internalFrame = self._driver.find_element_by_name(self._internalFrameID)
         self._driver.switch_to.frame(internalFrame)
-        cridReportPage = self._wait.until(EC.presence_of_element_located((By.ID,'cridreportpage')))
+        cridReportPage = self._wait.until(EC.presence_of_element_located((By.ID, 'cridreportpage')))
 
         soup = BeautifulSoup(self._driver.page_source)
         self._driver.close()
@@ -120,20 +126,23 @@ class WaterScrapper:
     def handleException(self, message, exception):
         self._driver.get(self._url)
         self._iterator = 0;
-        #print "Exception caught while: " + message
-        #print exception
-        #print "======= Let's try again ======="
+        print "======= EXCEPTION ======="
+        print "Exception caught while: " + message
+        print exception
+        print "======= Let's try again ======="
         return {'status': 'false'}
 
-def main():
-    fileName = 'meterData.txt'
-    yesterday = date.today() - timedelta(days=1)
-    dateString = str(yesterday.month) +"/"+ str(yesterday.day) + "/" + str(yesterday.year)
-    scrapper = WaterScrapper(dateString, 'B')
 
+def engine(selectedDate):
+    client = MongoClient('localhost', 27017)
+    db = client['meterData']
+
+    fileName = 'meterData.txt'
+    dateString = str(selectedDate.month) + "/" + str(selectedDate.day) + "/" + str(selectedDate.year)
+    meterCollection = db['meterData-12']
+    scrapper = WaterScrapper(dateString, 'B')
     appender = open(fileName, 'a')
     reader = open('CountyNames.txt', 'r')
-
     if reader.mode == 'r' and appender.mode == 'a':
         competeListing = reader.readlines()
         for line in competeListing:
@@ -144,18 +153,33 @@ def main():
             scrapper._countyName = key
 
             data = scrapper.startEngine()
-            while(data['status'] == 'false'):
-                time.sleep(1*5)
+            while (data['status'] == 'false'):
+                time.sleep(1 * 5)
                 data = scrapper.startEngine()
 
             grandTotal = re.findall('grand', data['value'], re.IGNORECASE)
             if grandTotal:
                 data['value'] = 'NA'
-            formattedLine = dateString + ", " + value + ", "  + data['value'] + "\n"
-            print dateString + ", " + value + ", "  + data['value'] + ' AF'
+            formattedLine = dateString + ", " + value + ", " + data['value'] + "\n"
+            print dateString + ", " + value + ", " + data['value'] + ' AF'
             appender.write(formattedLine)
+            meterCollection.insert({"Date": dateString, "City": value, "Water": data['value']})
 
     appender.close()
     reader.close()
+
+
+def main():
+    januaryFirst = datetime(2014, 12, 1, 00, 00, 00).date()
+    midday = datetime(2014, 12, 7, 00, 00, 00).date()
+    daysCount = midday - januaryFirst
+    print(daysCount)
+    print daysCount
+    for iterator in range(1, daysCount.days):
+        print "========"
+        selectedDate = midday - timedelta(days=iterator)
+        engine(selectedDate)
+        print "========"
+
 
 if __name__ == "__main__": main()
