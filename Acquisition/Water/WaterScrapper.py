@@ -164,7 +164,7 @@ def engine(selectedDate):
             print dateString + ", " + value + ", " + data['value'] + ' AF'
             appender.write(formattedLine)
             meterCollection.insert({"Date": dateString, "City": value, "Water": data['value']})
-
+    scrapper._driver.quit()
     appender.close()
     reader.close()
 
