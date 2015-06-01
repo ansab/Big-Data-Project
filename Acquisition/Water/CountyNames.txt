@@ -6,8 +6,5 @@ LB,Long Beach
 LA,Los Angeles
 P,Pasadena
 SD,San Diego
-SF,San Fernando
-SMR,San Marino
 SA,Santa Ana
 SMN,Santa Monica
-T,Torrance

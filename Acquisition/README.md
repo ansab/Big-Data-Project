@@ -59,3 +59,19 @@ List of all the counties:
 	WR => Western MWD
 	
 
+Presentation Slide:
+	Weather and water consumption correlation
+		Anil Balani
+		Ansab Ijaz
+		Krunal Solanki
+	
+	How rain effects our water consumption?
+		Average American household uses 320 gallons of water per day
+		30 percent used for outdoor uses; more than 50% is used for landscaping
+		Sprinklers are scheduled irrespective of weather
+		Sample space: Metropolitan counties of Southern California
+	
+	Data acquisition
+		Language: Python
+		Weather Data: Weather Underground API
+		Water Consumption Data: Metropolitan Water District Southern California website scrapping
