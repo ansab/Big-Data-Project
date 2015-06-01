@@ -35,8 +35,10 @@ def main():
 			value = valueList[0]
 			consumer._countyName = value.lstrip(' ').replace(' ', '_')
 			data = consumer.getPrecipitationInInches()
+			if data == 'T':
+				data = 'NA'
 			formattedLine = dateString + ", " + value + ", "  + data + "\n"
-			print formattedLine 
+			print dateString + ", " + value + ", "  + data + " in" 
 			appender.write(formattedLine)
 
 	appender.close()

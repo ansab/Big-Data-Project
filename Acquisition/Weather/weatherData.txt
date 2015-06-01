@@ -1,0 +1,13 @@
+20150424, Anaheim, NA
+20150424, Beverly Hills, 0.00
+20150424, Burbank, 0.00
+20150424, Glendale, 0.00
+20150424, Long Beach, 0.00
+20150424, Los Angeles, 0.00
+20150424, Pasadena, 0.00
+20150424, San Diego, NA
+20150424, San Fernando, 0.00
+20150424, San Marino, 0.00
+20150424, Santa Ana, 0.02
+20150424, Santa Monica, 0.00
+20150424, Torrance, 0.00

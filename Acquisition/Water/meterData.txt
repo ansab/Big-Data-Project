@@ -1,0 +1,149 @@
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal, Grand total
+4/24/2015, Compton,  0.0
+4/24/2015, Eastern,  263.2
+4/24/2015, Fullerton,  12.6
+4/24/2015, Glendale,  49.4
+4/24/2015, Inland Empire,  182.1
+4/24/2015, Las Virgenes,  53.6
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Orange, 04/24/2015
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Beverly Hills,  23.8
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal,  4.7
+4/24/2015, Compton,  0.0
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  0.0
+4/24/2015, Coastal, Grand total
+4/24/2015, Compton,  0.0
+4/24/2015, Eastern,  263.2
+4/24/2015, Fullerton,  12.6
+4/24/2015, Glendale,  49.4
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal, Grand total
+4/24/2015, Compton,  0.0
+4/24/2015, Eastern,  263.2
+4/24/2015, Fullerton,  12.6
+4/24/2015, Glendale,  49.4
+4/24/2015, Inland Empire,  182.1
+4/24/2015, Las Virgenes,  53.6
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Pasadena,  55.0
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando, Grand total
+4/24/2015, San Marino,  2.5
+4/24/2015, Santa Ana,  0.0
+4/24/2015, Santa Monica,  13.5
+4/24/2015, Torrance,  46.2
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal, Grand total
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal, Grand total
+4/24/2015, Compton,  0.0
+4/24/2015, Eastern,  263.2
+4/24/2015, Fullerton,  12.6
+4/24/2015, Glendale,  49.4
+4/24/2015, Inland Empire,  182.1
+4/24/2015, Las Virgenes,  53.6
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Pasadena,  55.0
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando,  0.0
+4/24/2015, San Marino,  2.5
+4/24/2015, Santa Ana,  37.8
+4/24/2015, Santa Monica,  13.5
+4/24/2015, Torrance,  13.0
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Coastal, Grand total
+4/24/2015, Compton,  0.0
+4/24/2015, Eastern, Grand total
+4/24/2015, Glendale,  49.4
+4/24/2015, Inland Empire,  182.1
+4/24/2015, Las Virgenes,  35.2
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Pasadena,  46.2
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando,  0.0
+4/24/2015, San Marino,  2.5
+4/24/2015, Santa Ana,  37.8
+4/24/2015, Santa Monica,  13.5
+4/24/2015, Torrance,  46.2
+4/24/2015, Anaheim,  92.2
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Glendale,  49.4
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Pasadena,  55.0
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando,  0.0
+4/24/2015, San Marino,  2.5
+4/24/2015, Santa Ana,  37.8
+4/24/2015, Santa Monica,  13.5
+4/24/2015, Torrance,  46.2
+4/24/2015, Anaheim,  92.2
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  11.3
+4/24/2015, Glendale,  49.4
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  1,367.1
+4/24/2015, Pasadena,  55.0
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando,  0.0
+4/24/2015, San Marino,  2.5
+4/24/2015, Santa Ana,  37.8
+4/24/2015, Santa Monica,  13.5
+4/24/2015, Torrance,  46.2
+4/24/2015, Anaheim,  92.2
+4/24/2015, Beverly Hills,  46.5
+4/24/2015, Burbank,  0.0
+4/24/2015, Glendale,  49.4
+4/24/2015, Long Beach,  125.7
+4/24/2015, Los Angeles,  0.0
+4/24/2015, Pasadena,  55.0
+4/24/2015, San Diego,  1,385.8
+4/24/2015, San Fernando,  0.0
+4/24/2015, San Marino,  2.5
+4/26/2015, Anaheim, NA
+4/26/2015, Beverly Hills, NA
+4/26/2015, Burbank, NA
+4/26/2015, Glendale, NA
+4/26/2015, Long Beach, NA
+4/26/2015, Los Angeles, NA
+4/26/2015, Pasadena, NA
+4/26/2015, San Diego, NA
+4/26/2015, San Fernando, NA
+4/26/2015, San Marino, NA
+4/26/2015, Santa Ana, NA
+4/26/2015, Santa Monica, NA
+4/26/2015, Torrance, NA
+4/26/2015, Anaheim, NA
+4/26/2015, Beverly Hills, NA
+4/26/2015, Burbank, NA
+4/26/2015, Glendale, NA
+4/26/2015, Long Beach, NA
+4/26/2015, Los Angeles, NA
+4/26/2015, Pasadena, NA
+4/26/2015, San Diego, NA
+4/26/2015, San Fernando, NA
+4/26/2015, San Marino, NA
+4/26/2015, Santa Ana, NA
+4/26/2015, Santa Monica, NA
+4/26/2015, Torrance, NA
